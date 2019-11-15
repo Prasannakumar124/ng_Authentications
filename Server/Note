@@ -1,0 +1,3 @@
+1.create a folder server in that type coommands:
+    npm init --yes// it create dependencie list
+    npm install express body-parser// express is our web server body-parser is the middleware
